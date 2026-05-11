@@ -12,7 +12,7 @@ Interested in:
 Currently learning:
 - C Programming
 - Data Structures
-- Technical Informatics
+- Computer Architecture
 - Linux Terminal
 
 Long-term goal:
